@@ -3,7 +3,7 @@ author: robertgarrigos
 email: robert@garrigos.cat
 description: > # this means to ignore newlines until "baseurl:"
   My new texsting blog on GitHub
- baseurl:
+
 
 # social links
 twitter_username: your-twitter-handle
